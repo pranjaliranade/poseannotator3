@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poseannotator3/static/css/main.b19128df.css",
+    "main.js": "/poseannotator3/static/js/main.aa0979c0.js",
+    "static/media/run.mp4": "/poseannotator3/static/media/run.75702a237c93fceda84c.mp4",
+    "index.html": "/poseannotator3/index.html",
+    "main.b19128df.css.map": "/poseannotator3/static/css/main.b19128df.css.map",
+    "main.aa0979c0.js.map": "/poseannotator3/static/js/main.aa0979c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19128df.css",
+    "static/js/main.aa0979c0.js"
+  ]
+}
